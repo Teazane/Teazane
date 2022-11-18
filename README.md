@@ -4,14 +4,14 @@
 Je suis une buveuse de thé fanatique 🫖 et une joueuse fervente de jeux de rôle sur table 🎲 !
 
 D'un point de vue professionel, je suis ingénieure en solutions de sécurité : je conçois et implémente des outils pour gérer ou améliorer la sécurité de ressources diverses.
-Pour le fun, je travaille sur des projets divers que vous pourrez trouver sur cet espace : des bots, des dites web, des outils automatisés, ...
+Pour le fun, je travaille sur des projets divers que vous pourrez trouver sur cet espace : des bots, des sites web, des outils automatisés, ...
 
 🇬🇧/🇺🇸
 
 I'm a tea-drinker lover 🫖 and a fervent tabletop role-payer 🎲!
 
 At work, I'm a security solution engineer: I design and implement tools to manage or improve asset security.
-For fun, I'm working on diverse subjects you can find in this repository: bots, website, automated tools, ... 
+For fun, I'm working on diverse subjects you can find in this repository: bots, websites, automated tools, ... 
 
 ### Langages et frameworks / Languages and frameworks:
 #### Mes préférés / My favorites:
