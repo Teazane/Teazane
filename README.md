@@ -25,7 +25,7 @@ For fun, I'm working on diverse subjects you can find in this repository: bots, 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
 </a> 
 
-#### Bien connus / Well known:
+#### Utilisés auparavant / Previously used:
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
 </a>
